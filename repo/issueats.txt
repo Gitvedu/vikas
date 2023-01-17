@@ -1,0 +1,46 @@
+Previous Bookings
+https://staging.parivahan.gov.in/bookingService/viewPreviousBooking
+1. Ats Name
+2. Ats Address
+3. Payment Transaction Date & Time
+4. Booking Timestamp :
+
+
+Current Bookings
+http://10.25.214.18:8096/bookingService/viewCurrentBooking
+1. Ats Name
+2. Ats Address
+3. Payment Transaction Date & Time
+4. Booking Timestamp :
+
+
+Cancelled Bookings
+http://10.25.214.18:8096/bookingService/viewCancelledBookings
+1. Ats Name
+2. Ats Address
+3. Payment Transaction Date & Time
+
+
+Ats Centers
+https://staging.parivahan.gov.in/UserCreationService/viewATS
+1.Fitness Fees
+
+
+Approved Appeal
+http://10.25.214.18:8089/fitness-result-service/viewApprovedAppeals
+1. Registration no. null
+
+Pending Appeal
+http://10.25.214.18:8089/fitness-result-service/viewPendingAppeals
+1. Registration no. null
+
+Rejected Appeal
+http://10.25.214.18:8089/fitness-result-service/viewRejectedAppeals
+1. Registration no. null
+
+Fitness History
+http://10.25.214.18:8089/fitness-result-service/getFitnessResults
+1. Payment Transaction Date & Time
+
+Ats Center & Book Slot 
+1. Side bar(filter)
