@@ -5,14 +5,3 @@ vikas
 deleteJWT
 
 
-// JWTAcces: any
-  // verifyJWT() {
-  //   let url = "http://10.25.214.18:8286/mobile-email-verification-service/verifyJWT"
-  //   let body = {}
-  //   this.Post.PostData(url, body).subscribe((d: any) => {
-  //     this.JWTAcces = d.msg
-  //     if (this.JWTAcces == "Unauthorized Access") {
-  //       this.route.navigate(['']);
-  //     }
-  //   })
-  // }
