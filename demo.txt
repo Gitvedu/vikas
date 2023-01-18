@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-vikas New Change
+Ved New Change
 
-=======
-ved
-vikas
->>>>>>> b1f40a5d9e2db6c466b3736ad2b1a93818193d32
